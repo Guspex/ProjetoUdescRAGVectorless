@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.9",
+    "dotenv": "^18.0.4",
+    "mammoth": "^1.12.3",
+    "openai": "^7.23.0",
+    "tesseract.js": "^7.0.0",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2",
+    "unpdf": "^1.8.1",
+    "word-extractor": "^1.0.4",
+    "xlsx": "^0.18.5"
+  }
+}
